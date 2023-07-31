@@ -6,4 +6,4 @@ Left to do:
 #Integrate buttons that dispay specific sensor data on screen
 #Make PCB and case
 
-Pivoted to esp8266 (one local sensor did not had library) 
+Pivoted to esp8266 (one sensor sourced locally is not compatible with STM board i had arround) 
