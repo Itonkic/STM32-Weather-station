@@ -8,3 +8,4 @@ Integrate buttons that dispay specific sensor data on screen
 Pivoted to esp8266 (one temperature sensor sourced locally is not compatible with STM board i had arround, code works with Adafruit_BME680) 
 
 Folder ESP8266 contains code and image/dwg file to create pcb.
+![Alt Text](https://giphy.com/gifs/xPlr4JoYHa0by7cM5u/giphy.gif)
