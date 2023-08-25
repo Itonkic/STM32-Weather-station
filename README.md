@@ -9,5 +9,4 @@ Pivoted to esp8266 (one temperature sensor sourced locally is not compatible wit
 
 Folder ESP8266 contains code and image/dwg file to create pcb.
 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ5cmo1Y2dtNHhsYnhwcnRjdTZla3lodWdvaTlwaHpmOHl5a3kxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xPlr4JoYHa0by7cM5u/giphy.gif)
-
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Itonkic/STM32-Weather-station/blob/main/20230825_170629.gif)https://github.com/Itonkic/STM32-Weather-station/blob/main/20230825_170629.gif)
